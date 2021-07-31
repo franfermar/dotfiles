@@ -90,4 +90,4 @@ sudo pacman -S rofi thunar firefox alacritty redshift scrot
 | **[rofi](https://wiki.archlinux.org/index.php/Rofi)**                 | Menú y navegación                  |
 | **[scrot](https://wiki.archlinux.org/index.php/Screen_capture)**      | Captura de pantalla                |
 | **[redshift](https://wiki.archlinux.org/index.php/Redshift)**         | Cuida tus ojos                     |
-| **[geeqie]((https://archlinux.org/packages/extra/x86_64/geeqie/))**         | Visor de imágenes                     |
+| **[geeqie](https://archlinux.org/packages/extra/x86_64/geeqie/)**         | Visor de imágenes                     |

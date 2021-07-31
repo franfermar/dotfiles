@@ -95,4 +95,4 @@ and for *alacritty*, [this one](https://github.com/antoniosarosi/dotfiles/tree/m
 | **[rofi](https://wiki.archlinux.org/index.php/Rofi)**                 | Menu and window switcher |
 | **[scrot](https://wiki.archlinux.org/index.php/Screen_capture)**      | Screenshot               |
 | **[redshift](https://wiki.archlinux.org/index.php/Redshift)**         | Take care of your eyes   |
-| **[geeqie]((https://archlinux.org/packages/extra/x86_64/geeqie/))**         | Image viewer                     |
+| **[geeqie](https://archlinux.org/packages/extra/x86_64/geeqie/)**         | Image viewer                     |
