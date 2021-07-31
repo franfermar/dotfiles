@@ -100,6 +100,9 @@ keys = [
     # File Explorer
     Key([mod], "e", lazy.spawn("thunar"), desc="File explorer"),
 
+    # Night screen
+    Key([mod, "shift"], "r", lazy.spawn("redshift"), desc="Screen protection"),
+
 
     # ------------ Hardware Configs ------------
 

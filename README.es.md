@@ -2,7 +2,7 @@
 ![Qtile](/.screenshots/qtile.png)
 
 ***Idioma***
-- [Inglés](https://github.com/antoniosarosi/dotfiles)
+- [Inglés](https://github.com/franfermar/dotfiles)
 - Español
 
 # Introducción
@@ -77,7 +77,7 @@ sudo pacman -S rofi thunar firefox alacritty redshift scrot
 | **[Material Black](https://www.gnome-look.org/p/1316887/)**                            | Tema e iconos para GTK                 |
 | **[lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/)**  | GUI para cambiar temas                 |
 | **[feh](https://wiki.archlinux.org/index.php/Feh)**                                    | CLI para establecer fondos de pantalla |
-| **[udiskie]((https://archlinux.org/packages/extra/x86_64/udisks2/))**                                    | USB |
+| **[udiskie](https://www.archlinux.org/packages/community/any/udiskie/)**                                    | USB |
 
 ## Apps
 
