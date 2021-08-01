@@ -1,0 +1,10 @@
+set fish_greeting ""
+
+alias grep "grep --color=auto"
+alias config "/usr/bin/git --git-dir=/home/franc/dotfiles/ --work-tree=/home/franc"
+alias grub-update "grub-mkconfig -o /boot/grub/grub.cfg"
+alias bat "cat /sys/class/power_supply/BAT0/capacity"
+alias ls "exa --icons --group-directories-first"
+alias la "exa --icons --all --long --group-directories-first"
+alias tree "exa --tree --icons"
+alias .. "cd .."
