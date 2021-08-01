@@ -229,7 +229,8 @@ screens = [
                     foreground = colors[2],
                     execute='alacritty',
                     background = colors[3],
-                    update_interval=1800
+                    update_interval=1800,
+                    custom_command='checkupdates'
                 ),
                 powerline(colors[3], colors[4]),
                 widget.TextBox(

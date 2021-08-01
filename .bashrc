@@ -15,5 +15,7 @@ export PS1='\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\W\[\033[33m\]$(__gi
 alias config='/usr/bin/git --git-dir=/home/franc/dotfiles/ --work-tree=/home/franc'
 alias grub-update='grub-mkconfig -o /boot/grub/grub.cfg'
 alias bat='cat /sys/class/power_supply/BAT0/capacity'
-alias la='ls -A'
+alias ls='exa --icons --group-directories-first'
+alias la='exa --icons --A --group-directories-first'
+alias tree='exa --tree --icons'
 alias ..='cd ..'
